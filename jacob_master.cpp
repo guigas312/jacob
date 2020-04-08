@@ -2,7 +2,7 @@
 #include <math.h>
 #include <iostream>
 #include <stdlib.h>
-
+//mudança
 //ATENÇÂO ANTES DE EXECULTAR O PROGAMA DEFINA O NÚMERO DE VARIÁVEIS
 
 // insira o numero de variaveis na declaraçao a baixo:
